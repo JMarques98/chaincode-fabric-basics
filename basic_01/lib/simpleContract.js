@@ -27,3 +27,6 @@ class SimpleContract extends Contract {
 }
 
 module.exports = SimpleContract;
+
+
+
